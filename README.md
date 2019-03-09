@@ -19,3 +19,5 @@
 - Bootstrap 4 = CSS Framework
 - Sublime Text 3 = Text Editor
 </pre>
+
+* Versi PHP yang digunakan = PHP7.2
