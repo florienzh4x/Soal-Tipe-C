@@ -9,7 +9,7 @@
   <li><b>Nomor 5</b> : Membuat fungsi biaya parkir bedasarkan jam (Bahasa yang digunakan : PHP)</li>
   <li><b>Nomor 6</b> : query untuk menampilkan product product dan mengelompokkan bedasarkan kategori (Bahasa yang digunakan : PHP)</li>
   <li><b>Nomor 7</b> : menampilkan query dari <b>nomor 6</b> ke layar (Bahasa yang digunakan : PHP)</li>
-<ul>
+</ul>
 
 
 ## <h2>Bahan yang digunakan untuk nomor 7</h2>
