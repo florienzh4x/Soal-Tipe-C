@@ -14,10 +14,8 @@
 
 ## <h2>Bahan yang digunakan untuk nomor 7</h2>
 ```
-<pre>
 - Apache2 = untuk menjalankan server
 - PhpMyAdmin = digunakan untuk Database Server
 - Bootstrap 4 = CSS Framework
 - Sublime Text 3 = Text Editor
-</pre>
 ```
