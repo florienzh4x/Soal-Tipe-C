@@ -11,9 +11,12 @@
   <li><b>Nomor 7</b> : menampilkan query dari <b>nomor 6</b> ke layar (Bahasa yang digunakan : PHP)</li>
 <ul>
 
-# Bahan yang digunakan untuk nomor 7
+<h2>Bahan yang digunakan untuk nomor 7</h2>
 ```
+<pre>
 - Apache2 = untuk menjalankan server
 - PhpMyAdmin = digunakan untuk Database Server
 - Bootstrap 4 = CSS Framework
 - Sublime Text 3 = Text Editor
+</pre>
+```
